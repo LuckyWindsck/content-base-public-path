@@ -1,3 +1,7 @@
+WARNING
+----------
+This repository is no longer active since the issue has been resolved.
+
 # content-base-public-path
 For issue report (issue-resolved)
 
